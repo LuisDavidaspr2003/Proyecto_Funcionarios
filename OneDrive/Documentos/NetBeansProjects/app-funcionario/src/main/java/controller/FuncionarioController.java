@@ -5,7 +5,7 @@ import domain.Funcionario;
 import java.sql.SQLException;
 import java.util.List;
 
-public class FuncionarioController {
+public class FuncionarioController {   
     
 
     private FuncionarioDao funcionarioDao;

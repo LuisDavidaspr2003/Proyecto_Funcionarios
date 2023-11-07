@@ -12,7 +12,7 @@ public class Funcionario {
     private String nombres;
     private String apellidos;
     private String estadocivil;
-    private String sexo;
+    private String sexo;   
     private String direccion;
     private String telefono;
     private String fechaNacimiento; 

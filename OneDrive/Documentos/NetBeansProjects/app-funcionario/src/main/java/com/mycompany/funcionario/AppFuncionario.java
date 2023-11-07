@@ -4,9 +4,9 @@ import controller.FuncionarioController;
 import domain.Funcionario;
 import java.sql.SQLException;
 import java.util.List;
-import java.util.Scanner;
+import java.util.Scanner;    
 
-public class AppFuncionario {
+public class AppFuncionario { 
 
     public static void crear(FuncionarioController funcionarioController) {
         try {
