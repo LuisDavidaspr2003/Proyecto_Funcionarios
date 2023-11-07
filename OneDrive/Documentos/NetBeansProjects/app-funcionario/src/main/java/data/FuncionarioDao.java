@@ -9,6 +9,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;  
 
+
 public class FuncionarioDao {
 
    private static final String GET_FUNCIONARIOS = "SELECT * FROM funcionarios";

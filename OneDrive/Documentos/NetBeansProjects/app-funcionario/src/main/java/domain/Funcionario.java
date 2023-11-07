@@ -17,6 +17,7 @@ public class Funcionario {
     private String telefono;
     private String fechaNacimiento; 
 
+    
     public int getFuncionarioid() {
         return funcionarioid;
     }

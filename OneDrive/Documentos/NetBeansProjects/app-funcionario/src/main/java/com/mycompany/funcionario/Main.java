@@ -594,6 +594,7 @@ public class Main extends javax.swing.JFrame {
             return;
         }
 
+        
         if (txtNuneroidentificacion.getText().trim().length() == 0) {
             JOptionPane.showMessageDialog(null, "Digite El Numero De Su Identificacion");
             txtNuneroidentificacion.requestFocus();

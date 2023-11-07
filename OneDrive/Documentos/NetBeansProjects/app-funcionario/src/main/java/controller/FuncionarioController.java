@@ -7,7 +7,6 @@ import java.util.List;
 
 public class FuncionarioController {   
     
-
     private FuncionarioDao funcionarioDao;
     
     public FuncionarioController() {
