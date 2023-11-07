@@ -589,7 +589,7 @@ public class Main extends javax.swing.JFrame {
     private void btnCrearActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnCrearActionPerformed
 
         if (txtBrand.getText().trim().length() == 0) {
-            JOptionPane.showMessageDialog(null, "Digite El Tipo de su Identificacion");
+            JOptionPane.showMessageDialog(null, "Digite El Tipo De Su Identificacion");
             txtBrand.requestFocus();
             return;
         }
